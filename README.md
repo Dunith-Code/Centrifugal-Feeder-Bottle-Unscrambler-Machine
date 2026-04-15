@@ -32,9 +32,7 @@ I was responsible for the entire project lifecycle, from concept to 90% completi
 - Final Project (90% complete) – All mechanical components fabricated; control system fully functional; machine reliably orients and feeds bottles.
 
 ## 🤝 Acknowledgments
-- Phoenix Industries for the opportunity and guidance.
-- Supervisor for technical support and component procurement.
-- Workshop technicians for fabrication assistance.
+This system was developed as part of an internship project within a professional industrial setting. The success of this project was made possible by the guidance and support of the Automation Engineering team(including my supervisors and workshop technicians) of Phoenix Industries Ltd, Makandura, Sri Lanka.
 
 ## 📄 License & Copyright
 This project was developed during an internship at Phoenix Industries.
